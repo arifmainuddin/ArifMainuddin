@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifmainuddin&label=Profile%20views&color=0e75b6&style=flat" alt="arifmainuddin" /> </p>
 
 - 🔭 I’m currently working on [Cyber Security](https://decodeslab.com/)
-
 - 🌱 Digging Into **Cyber Security, Digital Forensics, Artificial Intelligence**
-- 
 - 🤝 I’m currently learning **AI, ML, Data Science**
 - 
 - 👨‍💻 All of my projects are available at [https://arifmainuddin.com/](https://arifmainuddin.com/)
