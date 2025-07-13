@@ -5,8 +5,10 @@
 
 - 🔭 I’m currently working on [Cyber Security](https://decodeslab.com/)
 
-- 🌱 I’m currently learning **AI, ML, Data Science**
-
+- 🌱 Digging Into **Cyber Security, Digital Forensics, Artificial Intelligence**
+- 
+- 🤝 I’m currently learning **AI, ML, Data Science**
+- 
 - 👨‍💻 All of my projects are available at [https://arifmainuddin.com/](https://arifmainuddin.com/)
 
 - 💬 Ask me about **Cyber Crime, Cyber Security and Cyber Forensic**
