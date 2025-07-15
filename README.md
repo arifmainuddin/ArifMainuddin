@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Arif Mainuddin</h1>
-<h3 align="center">Passionate Cyber Security Researcher and Analyst</h3>
+<h3 align="center">Passionate Cyber Security Researcher and Analyst with 12+ years of working experience in Information Security, Cyber Crime Investigation and Digital Forensics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifmainuddin&label=Profile%20views&color=0e75b6&style=flat" alt="arifmainuddin" /> </p>
 
 - 🔭 I’m currently working on [Cyber Security](https://decodeslab.com/)
 - 🌱 Digging Into **Cyber Security, Digital Forensics, Artificial Intelligence**
-- 🤝 I’m currently learning **AI, ML, Data Science**- 
-- 👨‍💻 All of my projects are available at [https://arifmainuddin.com/](https://arifmainuddin.com/)
+- 🤝 I’m currently learning **AI, ML, Data Science**
+- ⚡ Buy My Books From [Rokomari Books](https://www.rokomari.com/book/author/85124/arif-mainuddin) 
+- 👨‍💻 Visit My Website to know More at [https://arifmainuddin.com/](https://arifmainuddin.com/)
 
 - 💬 Ask me about **Cyber Crime, Cyber Security and Cyber Forensic**
 
 - 📫 How to reach me **devarif22@gmail.com**
 
-- 📄 Know about my experiences [https://arifmainuddin.com/](https://arifmainuddin.com/)
+- 📄 Learn and Fun From [Youtube](https://www.youtube.com/c/iamarifmainuddin)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
